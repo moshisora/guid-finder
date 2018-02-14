@@ -1,0 +1,22 @@
+{
+  "name": "guid-finder",
+  "version": "0.0.1",
+  "description": "cli-toos to find referenced file by guid for unity",
+  "keywords": [
+    "unity",
+    "guid",
+    "search"
+  ],
+  "main": "index.js",
+  "bin": {
+    "guidf": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moshisora",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^2.14.1"
+  }
+}
