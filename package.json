@@ -1,6 +1,6 @@
 {
   "name": "guid-finder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cli-tool to find referenced file by guid for unity",
   "keywords": [
     "unity",
