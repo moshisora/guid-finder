@@ -10,7 +10,7 @@ Recursively search the specified path and search for the file referring to the t
 ## Install
 
 ```
-npm install -g guid-finder
+$ npm install -g guid-finder
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ test/unity-project/Assets/Scenes/Used.prefab
 
 # TODO
 
-- Automated testing
+- Testing
 - Support search by filename
 
 # License

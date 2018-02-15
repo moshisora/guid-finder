@@ -1,7 +1,7 @@
 {
   "name": "guid-finder",
   "version": "0.0.1",
-  "description": "cli-toos to find referenced file by guid for unity",
+  "description": "cli-tool to find referenced file by guid for unity",
   "keywords": [
     "unity",
     "guid",
@@ -14,9 +14,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "moshisora",
+  "author": {
+    "name": "moshisora",
+    "url": "http://github.com/moshisora"
+  },
   "license": "MIT",
+  "repository": "moshisora/guid-finder",
   "devDependencies": {
     "commander": "^2.14.1"
-  }
+  },
+  "dependencies": {}
 }
